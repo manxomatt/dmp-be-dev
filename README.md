@@ -1,7 +1,9 @@
 
 
 ## Description
-Build Using [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Build Using [Nest](https://github.com/nestjs/nest) framework.
+
+BE-TEST Code Result.
 
 ## Installation
 
